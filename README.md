@@ -1,6 +1,6 @@
-# Welcome to Code Playground! 🚀
+# Welcome to VS Code Web Edition! 🚀
 
-Are you a developer looking for a sleek and modern code editor to showcase your skills? Look no further than **Code Playground**! Our web-based code editor is designed to provide a seamless coding experience, allowing you to write, execute, and share your code with ease.
+Are you a developer looking for a sleek and modern code editor to showcase your skills? Look no further than **VS Code Web Edittion**! Our web-based code editor is designed to provide a seamless coding experience, allowing you to write, execute, and share your code with ease.
 
 ## Features 🎨
 
@@ -12,7 +12,7 @@ Are you a developer looking for a sleek and modern code editor to showcase your 
 
 ## Getting Started 🚀
 
-To start coding, simply visit our website at [Code Playground](https://vs-code-web.onrender.com/). Choose your preferred language from the dropdown menu, write your code in the editor, and click the "Run Code" button to see the output.
+To start coding, simply visit our website at [VS Code Web](https://vs-code-web.onrender.com/). Choose your preferred language from the dropdown menu, write your code in the editor, and click the "Run Code" button to see the output.
 
 ## Share Your Creations 🌐
 
@@ -20,7 +20,7 @@ Once you've written some amazing code, share it with the world! Our code editor 
 
 ## Contribute to the Project 🤝
 
-We're always looking for ways to improve Code Playground. If you have any ideas, suggestions, or bug reports, feel free to contribute to the project on GitHub: [GitHub Repository](https://github.com/your-username/code-playground)
+We're always looking for ways to improve Code Playground. If you have any ideas, suggestions, or bug reports, feel free to contribute to the project on GitHub: [GitHub Repository](https://github.com/sandeep-kalla/VS-Code-clone-using-React)
 
 ## Enjoy Coding! 💻
 
